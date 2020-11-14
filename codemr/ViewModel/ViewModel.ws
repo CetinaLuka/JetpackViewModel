@@ -1,0 +1,1 @@
+{"app":{"name":"app","packages":{"com.i.viewmodel":{"packageName":"com.i.viewmodel","isAll":false,"classes":["Lcom.i.viewmodel.MainActivity"]}}}}
